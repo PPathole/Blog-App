@@ -9,7 +9,7 @@ Full stack RESTful blog website built using NodeJS, ExpressJS, and Semantic UI
 - [Method Override](https://www.npmjs.com/package/method-override)
 - [Express Sanitizer](https://www.npmjs.com/package/express-sanitizer)
 
-## 7 RESTful ROUTES
+## RESTful ROUTES in the Blog app
 
 | Name          | Routes        | HTTP verb  |
 | ------------- |:-------------:| ----------:|
